@@ -1,5 +1,5 @@
 import React from 'react';
-import PokemonCard from './PokemonCard';
+import pokemonCard from "./component/pokemonCard.jsx';
 
 const App = () => {
   return (
